@@ -3,3 +3,9 @@ to remorte GitHub.com repostory
 few things happend:
 1- it automaticlly created new Remote repo under your GitHub.com account
 2- Made the connection with your local git repo 
+
+Now our work will continue locally
+1- add a new file celled note.txt
+2- commited the change to local repo
+3- we want this change to be reflected in remote reposotory using push origin button 
+4- Observe it has been added in your reposotory under GitHub.com
